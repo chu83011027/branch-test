@@ -1,1 +1,2 @@
 An issue was fixed in main.
+Hotfix team's solution
